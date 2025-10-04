@@ -1,6 +1,3 @@
-Got it! Since you used **Python** and **UVicorn (uv)**, I’ll adjust the README accordingly. Here’s the revised version:
-
----
 
 # MCP Tool Simulation Project
 
